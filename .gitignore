@@ -1,0 +1,5 @@
+.env
+instructions.md
+__Pycache__/
+venv/
+.venv/
